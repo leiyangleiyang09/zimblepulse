@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Virtual environments
+.env
+.venv
+ENV/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Model files
+*.pkl
+
+# CSV files (if not needed in the repo)
+*.csv
+
+# Logs
+*.log
+
+# Streamlit temporary files
+.streamlit/
